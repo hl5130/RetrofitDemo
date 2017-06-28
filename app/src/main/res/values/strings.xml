@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">RetrofitDemo</string>
+    <string name="btn_get_network">获取token</string>
+    <string name="btn_get_new">获取文章列表</string>
 </resources>
